@@ -1,0 +1,3 @@
+#!/bin/sh
+
+su mongodb -c "mongod --config /etc/mongodb.conf"
